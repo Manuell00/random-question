@@ -1,0 +1,81 @@
+Definizione di sistema di trasporto
+Sistema Urbano
+Individuazione del sistema di trasporto
+Matrice Origine/Destinazione
+Modellizzazione dei sistemi di trasporto
+Ingegneria dei sistemi di trasporto
+Campi Applicativi Ingegneria dei trasporti
+Classificazione dei sistemi di trasporto
+Sistema ferroviario
+Sistema Stradale
+Sistema fluviale
+Sistema Aereo
+Teoria del deflusso
+Traiettoria veicoli
+Equazione generale di conservazione
+Deflusso stazionario 
+Diagramma fondamentale
+Livelli di servizio
+Greenshield
+Tempo di Percorrenza legato a greenshield
+Modelli a coda grafico + spiegazione
+Variabili del modello a coda
+Equazione di conservazione nei modelli coda
+Modelli deterministici + equazione di conservazione
+Sistema coda-stazionario spiegazione di sotto e sovra saturazione
+Modelli stocastici
+Classificazione del sistema coda
+Legge di Little
+Descrizione code (legge di Little ) : MM1; MM2; MG1; MD1
+Sistemi a densità controllata + equazione flusso (con caso convogli)
+Spiegare Nodi e Archi
+Nodi Sincronici e Diacronici
+Spostamento e Percorso definizioni
+Matrice di Incidenza 
+Flussi di arco e flussi di percorso (Definizione + formula)
+Costo di trasporto medio generalizzato di un arco + Variabile di prestazione
+Costo di trasporto medio generalizzato di un percorso + Variabile di prestazione
+Costi additivi e non additivi + vettore dei costi di percorso
+Funzioni di prestazione, costo e impatto di un arco
+Funzioni separabili e NON separabili
+Modello di offerta, formule analitiche
+Archi di corsa, attesa, sosta
+Costo generalizzato di trasporto di un arco stradale 
+Spiegazione costo monetario
+Archi di percorrenza —> Tempo di percorrenza
+Archi Autostradali —> Tempo di percorrenza (BPR)
+Archi autostradali extraurbani—> BPR modificato
+Funzione di Davidson
+Archi di attesa / Barriera di Pedaggio + Estensione 1 e spiegare brevemente estensione 2
+Intersezioni semaforizzate grafico + formule
+Flusso di saturazione formula + casistiche di sotto e sovra saturazione (formule)
+Calcolo del flusso di saturazione 
+Spiegazione sotto e sovra saturazione (Applicazione della teoria delle code ) + Tempo di esaurimento della coda
+Lunghezza coda in sotto-saturazione e sovra-saturazione 
+Ritardo deterministico  in sotto e sovra saturazione 
+Ritardo stocastico (sotto saturazione)
+Formula in 3 termini di Webster e 2 termini
+Ritardo complessivo (sovra saturazione)
+Archi di attesa
+Sistema di trasporto discreto spiegare casi di stazionarietà e NON stazionarietà
+Grafo delle linee che cos’è
+Tempo di viaggio a bordo (formula) + 2 casistiche
+Tempo di attesa alla fermata (formula) + considerazioni su sigma
+Tempo di accesso ed egresso
+Attributi di prestazione dipendenti dalla congestione 
+Tempo di sosta alla fermata (formula)
+Tempo di attesa alla fermata (formula)
+Funzione di discomfort (formula)
+Costo generalizzato (formula)
+Costo monetario spiegare 3 sotto casistiche
+Costo del tempo
+Relazione costo del tempo / costo monetario
+Costi di produzione e gestione
+Costi d’uso delle infrastrutture (ferrovie, strade, porti)
+Esternalità e costi esterni
+Modello di domanda (analitico)
+Modello a 4 stadi
+Utilità Sistematica
+Probabilità di scelta del percorso
+Flussi di percorso —> Modello di domanda e offerta
+Assegnazioni delle reti di trasporto
